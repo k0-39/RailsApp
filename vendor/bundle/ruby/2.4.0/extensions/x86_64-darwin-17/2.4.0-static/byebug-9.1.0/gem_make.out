@@ -1,0 +1,19 @@
+current directory: /Users/nakaokousaku/KousakuApp/vendor/bundle/ruby/2.4.0/gems/byebug-9.1.0/ext/byebug
+/Users/nakaokousaku/.rbenv/versions/2.4.2/bin/ruby -r ./siteconf20180109-21824-w41gme.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nakaokousaku/KousakuApp/vendor/bundle/ruby/2.4.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/nakaokousaku/KousakuApp/vendor/bundle/ruby/2.4.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/nakaokousaku/KousakuApp/vendor/bundle/ruby/2.4.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20180109-21824-acy7da/byebug
